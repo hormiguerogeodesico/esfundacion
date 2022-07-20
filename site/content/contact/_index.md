@@ -12,6 +12,6 @@ Nos encantaría ponernos en contacto con usted y escuchar sus ideas y
 preguntas. Nos esforzamos por crecer y mejorar constantemente y sus 
 comentarios son valiosos para nosotros.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Como contactarnos…?</h3>
 
-También puede utilizar el siguiente formulario para cualquier consulta sobre la fundacion
+Utiliza el siguiente formulario para cualquier consulta sobre la fundacion
