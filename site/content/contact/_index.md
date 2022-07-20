@@ -8,12 +8,10 @@ contact_entries:
     text: "Lunes a vernes de 8hs a 16hs"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Nos encantaría ponernos en contacto con usted y escuchar sus ideas y 
+preguntas. Nos esforzamos por crecer y mejorar constantemente y sus 
+comentarios son valiosos para nosotros.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+También puede utilizar el siguiente formulario para cualquier consulta sobre la fundacion
