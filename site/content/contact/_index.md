@@ -1,11 +1,11 @@
 ---
-title: "Contact"
+title: "Contacto"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Direccion
+    text: "Hernandarias 2395"
+  - heading: Horario
+    text: "Lunes a vernes de 8hs a 16hs"
 ---
 
 We’d love to get in touch with you and hear your ideas and
